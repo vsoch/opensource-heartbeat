@@ -1,10 +1,6 @@
 name: opensource-heartbeat
 
 on:
-  push:
-    branches:
-      - master
-
   # nightly at 2:30am
   schedule:   
     - cron: 30 2 * * *
