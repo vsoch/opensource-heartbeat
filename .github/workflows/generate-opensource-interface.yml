@@ -2,7 +2,6 @@ name: opensource-heartbeat
 
 on:
   # nightly at 2:30am
-  pull_request: []
   schedule:   
     - cron: 30 2 * * *
 
