@@ -16,6 +16,6 @@ repo_url: https://github.com/USRSE/rse-stories
 * Update 2020-09-03-emmy-tsang.md
 * Cleaning up extra newlines at end of page
 
-Co-authored-by: Vanessasaurus <vsochat@gmail.com></small>
+Co-authored-by: Vanessasaurus <@vsoch></small>
 
 <a href='https://github.com/USRSE/rse-stories/commit/72ed6568f3e9aeb653e10b2ff279a646f5470244' target='_blank'>View Commit</a>

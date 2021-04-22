@@ -17,6 +17,6 @@ repo_url: https://github.com/conda-forge/spython-feedstock
 * Don't need to require requests
 
 Co-authored-by: regro-cf-autotick-bot <circleci@cf-graph.regro.github.com>
-Co-authored-by: Vanessasaurus <vsochat@gmail.com></small>
+Co-authored-by: Vanessasaurus <@vsoch></small>
 
 <a href='https://github.com/conda-forge/spython-feedstock/commit/7eb92fa8adda527f6d9c4948d230605b7e2c8345' target='_blank'>View Commit</a>

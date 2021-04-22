@@ -16,6 +16,6 @@ repo_url: https://github.com/conda-forge/scif-feedstock
 * MNT: Re-rendered with conda-build 3.20.5, conda-smithy 3.8.5, and conda-forge-pinning 2020.11.10.21.31.03
 * Updating license to MPL
 
-Co-authored-by: Vanessasaurus <vsochat@gmail.com></small>
+Co-authored-by: Vanessasaurus <@vsoch></small>
 
 <a href='https://github.com/conda-forge/scif-feedstock/commit/7a4b30a61778e812a0188f3345d4bdb7fe764311' target='_blank'>View Commit</a>

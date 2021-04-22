@@ -14,6 +14,6 @@ repo_url: https://github.com/USRSE/rse-stories
 
 * Create 2020-11-12-brian-hills.md
 * Update _posts/2020-11-12-brian-hills.md
-Co-authored-by: Vanessasaurus <vsochat@gmail.com></small>
+Co-authored-by: Vanessasaurus <@vsoch></small>
 
 <a href='https://github.com/USRSE/rse-stories/commit/a36166ac90234819f07b2276b3d356282aa3a1e2' target='_blank'>View Commit</a>
