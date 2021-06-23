@@ -52,7 +52,7 @@ jobs:
           else
              export OPEN_PULL_REQUEST=1
              printf "Changes\n"
-             git commit -a -m "Automated deployment to update contributors $(date '+%Y-%m-%d')"
+             git commit -a -m "Automated deployment to update events $(date '+%Y-%m-%d')"
              git push origin "${BRANCH_FROM}"
           fi
           echo "OPEN_PULL_REQUEST=${OPEN_PULL_REQUEST}" >> $GITHUB_ENV
