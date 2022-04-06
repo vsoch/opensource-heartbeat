@@ -1,0 +1,15 @@
+---
+event_type: IssueCommentEvent
+avatar: "https://avatars.githubusercontent.com/u/814322?"
+user: vsoch
+date: 2022-04-05
+repo_name: dyninst/dyninst
+html_url: https://github.com/dyninst/dyninst/pull/1245
+repo_url: https://github.com/dyninst/dyninst
+---
+
+<a href='https://github.com/vsoch' target='_blank'>vsoch</a> commented on issue <a href='https://github.com/dyninst/dyninst/pull/1245' target='_blank'>dyninst/dyninst#1245</a>.
+
+<small>Tests are running here (I changed the recipe so they would! https://github.com/dyninst/dyninst/pull/1247)...</small>
+
+<a href='https://github.com/dyninst/dyninst/pull/1245' target='_blank'>View Comment</a>
