@@ -1,0 +1,17 @@
+---
+event_type: PushEvent
+avatar: "https://avatars.githubusercontent.com/u/814322?"
+user: vsoch
+date: 2022-07-23
+repo_name: vsoch/elfcall
+html_url: https://github.com/vsoch/elfcall/commit/7f72a1864e499ebfbf6221b8d09d0783f494efa4
+repo_url: https://github.com/vsoch/elfcall
+---
+
+<a href='https://github.com/vsoch' target='_blank'>vsoch</a> pushed to <a href='https://github.com/vsoch/elfcall' target='_blank'>vsoch/elfcall</a>
+
+<small>loosing matching constraint to not include type
+
+Signed-off-by: vsoch <vsoch@users.noreply.github.com></small>
+
+<a href='https://github.com/vsoch/elfcall/commit/7f72a1864e499ebfbf6221b8d09d0783f494efa4' target='_blank'>View Commit</a>
