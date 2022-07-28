@@ -1,0 +1,15 @@
+---
+event_type: IssueCommentEvent
+avatar: "https://avatars.githubusercontent.com/u/814322?"
+user: vsoch
+date: 2022-07-28
+repo_name: singularityhub/singularity-compose
+html_url: https://github.com/singularityhub/singularity-compose/issues/58
+repo_url: https://github.com/singularityhub/singularity-compose
+---
+
+<a href='https://github.com/vsoch' target='_blank'>vsoch</a> commented on issue <a href='https://github.com/singularityhub/singularity-compose/issues/58' target='_blank'>singularityhub/singularity-compose#58</a>.
+
+<small>okay! I have a PR for you to test: https://github.com/singularityhub/singularity-compose/pull/59...</small>
+
+<a href='https://github.com/singularityhub/singularity-compose/issues/58' target='_blank'>View Comment</a>
