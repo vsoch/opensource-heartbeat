@@ -1,0 +1,13 @@
+---
+event_type: PullRequestEvent
+avatar: "https://avatars.githubusercontent.com/u/814322?"
+user: vsoch
+date: 2023-02-04
+repo_name: converged-computing/operator-experiments
+html_url: https://github.com/converged-computing/operator-experiments/pull/9
+repo_url: https://github.com/converged-computing/operator-experiments
+---
+
+<a href='https://github.com/vsoch' target='_blank'>vsoch</a> opened a pull request to <a href='https://github.com/converged-computing/operator-experiments' target='_blank'>converged-computing/operator-experiments</a>
+
+<a href='https://github.com/converged-computing/operator-experiments/pull/9' target='_blank'>View Pull Request</a>
