@@ -1,0 +1,17 @@
+---
+event_type: PushEvent
+avatar: "https://avatars.githubusercontent.com/u/814322?"
+user: vsoch
+date: 2023-06-22
+repo_name: rse-ops/flux-arm
+html_url: https://github.com/rse-ops/flux-arm/commit/373010384c4acc7f6a13686a129d0212cc719a9b
+repo_url: https://github.com/rse-ops/flux-arm
+---
+
+<a href='https://github.com/vsoch' target='_blank'>vsoch</a> pushed to <a href='https://github.com/rse-ops/flux-arm' target='_blank'>rse-ops/flux-arm</a>
+
+<small>try aarch64
+
+Signed-off-by: vsoch <vsoch@users.noreply.github.com></small>
+
+<a href='https://github.com/rse-ops/flux-arm/commit/373010384c4acc7f6a13686a129d0212cc719a9b' target='_blank'>View Commit</a>
